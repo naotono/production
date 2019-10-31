@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cowtaro3.github.io/production/static/css/main.b100e6da.chunk.css",
+    "main.js": "/cowtaro3.github.io/production/static/js/main.53252cf5.chunk.js",
+    "main.js.map": "/cowtaro3.github.io/production/static/js/main.53252cf5.chunk.js.map",
+    "runtime-main.js": "/cowtaro3.github.io/production/static/js/runtime-main.7ae6d570.js",
+    "runtime-main.js.map": "/cowtaro3.github.io/production/static/js/runtime-main.7ae6d570.js.map",
+    "static/js/2.d56122d2.chunk.js": "/cowtaro3.github.io/production/static/js/2.d56122d2.chunk.js",
+    "static/js/2.d56122d2.chunk.js.map": "/cowtaro3.github.io/production/static/js/2.d56122d2.chunk.js.map",
+    "index.html": "/cowtaro3.github.io/production/index.html",
+    "precache-manifest.190c9e5bdf4d950fdbbc855c65d4c9d0.js": "/cowtaro3.github.io/production/precache-manifest.190c9e5bdf4d950fdbbc855c65d4c9d0.js",
+    "service-worker.js": "/cowtaro3.github.io/production/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/cowtaro3.github.io/production/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/cowtaro3.github.io/production/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ae6d570.js",
+    "static/js/2.d56122d2.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.53252cf5.chunk.js"
+  ]
+}
